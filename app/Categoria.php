@@ -13,6 +13,7 @@ use Illuminate\Contracts\Auth\Access\Authorizable ;
 class Categoria extends Model 
 {
    protected $table = 'categoria';
+   //holi
 
     /**
      * The attributes that are mass assignable.
