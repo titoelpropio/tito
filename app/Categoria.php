@@ -14,7 +14,7 @@ class Categoria extends Model
 {
    protected $table = 'categoria';
    //holi como ta
-
+//gfgfgf
     /**
      * The attributes that are mass assignable.
      *
