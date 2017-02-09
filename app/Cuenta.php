@@ -19,7 +19,7 @@ class Cuenta extends Model implements AuthenticatableContract, AuthorizableContr
 
 use SoftDeletes;
 //fgsfgsfgsfg
-    /**
+    /**fdadfadfa
      * The database table used by the model.
      *
      * @var string
